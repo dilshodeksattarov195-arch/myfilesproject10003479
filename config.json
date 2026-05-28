@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productupdate",
+        "uuid": 31571925,
+        "checksum": "qcsg7h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
